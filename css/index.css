@@ -1,0 +1,23 @@
+html,
+body {
+  overflow-x: hidden; /* Prevent scroll on narrow devices */
+}
+
+body {
+  padding-top: 56px;
+  text-align: center;
+  background: #e9e7e2;
+}
+
+.border-bottom { border-bottom: 1px solid; }
+
+.box {
+  background: #f0f0f0;
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .5);
+}
+
+.list { line-height: 1.25; }
+
+.who {
+  padding: 3rem 1.5rem;
+} 
