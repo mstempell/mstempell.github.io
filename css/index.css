@@ -4,7 +4,6 @@ body {
 }
 
 body {
-  padding-top: 56px;
   text-align: center;
   background: #e9e7e2;
 }
@@ -19,7 +18,7 @@ body {
 .list { line-height: 1.25; }
 
 .who {
-  padding: 3rem 1.5rem;
+  padding: 3%;
 }
 
 .small-middle-container{
